@@ -1,0 +1,2 @@
+Why are you interested in taking CMSC320?
+Well first and foremost it is for my major. But besides that my uncle works actually making the data servers that are used by many companies. So that made me want to look into data science.
